@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import {BrowserRouter, createBrowserRouter, RouterProvider} from "react-router-dom";
-import NavbarComponent from "./NavBar/navbar.component";
+import { createBrowserRouter, RouterProvider} from "react-router-dom";
 import PageLayout from "./PageLayout/page-layout.component";
 import Home from "./Home/home.component";
 import Analytics from "./Analytics/analytics.component";

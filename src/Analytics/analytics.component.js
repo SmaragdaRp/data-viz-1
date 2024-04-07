@@ -21,8 +21,8 @@ export default function Analytics() {
                 <Robot/>
             </div>
             <div className="flex w-full py-6 px-10 justify-center items-center">
-                {/*https://radixweb.com/blog/artificial-intelligence-statistics*/}
                 <img
+                    alt="ai-chart"
                     className="rounded-lg"
                     src="https://masterofcode.com/wp-content/uploads/2023/09/Business-Benefits-of-AI-Adoption.png"
                 />

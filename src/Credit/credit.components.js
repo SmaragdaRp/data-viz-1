@@ -1,5 +1,4 @@
 import React from "react";
-import Robot from "../Robot/robot.component";
 
 export default function Credits() {
     return (

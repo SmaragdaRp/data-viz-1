@@ -22,6 +22,7 @@ export default function Home() {
             </div>
             <div className="flex w-full py-6 px-10 justify-center items-center">
                 <img
+                    alt="my-personal-pic"
                     className="h-[500px] rounded-lg"
                     src={my_photo}
                 />

@@ -1,10 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-// import {BrowserRouter, Route, Routes} from "react-router-dom";
-// import Home from "./Home/home.component";
-// import Analytics from "./Analytics/analytics.component";
-// import Credits from "./Credit/credit.components";
-// import Reflections from "./Reflections/reflections.component";
 
 function App() {
   return (
