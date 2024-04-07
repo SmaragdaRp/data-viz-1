@@ -1,5 +1,4 @@
 import React from "react";
-import my_photo from "../resources/photo_me.jpg";
 
 export default function Reflections() {
     return (
